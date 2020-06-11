@@ -1,4 +1,4 @@
-# ![FRIENDS](FRIENDS_logo.png)
+# ![FRIENDS](test)
 
 An analysis of the sitcom F.R.I.E.N.D.S
 
