@@ -14,6 +14,7 @@ The data was scraped from the website: https://transcripts.foreverdreaming.org/ 
 Warning: There may be some spoilers.
 
 **Cleaning** <br/>
+![cleaning](cleaning.png)
 The main cleaning steps included:
 
 * Corrected misspelled character names
@@ -23,6 +24,7 @@ The main cleaning steps included:
 * Included character lines if they are said by one person (delete if multiple characters spoke at once)
 
 **Data Analysis** <br/>
+![statistics](statistics.png)
 Some findings were:
 
 * There were 58,382 total spoken lines
