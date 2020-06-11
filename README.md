@@ -8,7 +8,7 @@ When looking into possible Data Science side projects, it was therefore an easy 
 
 
 **Getting Started**
-![Scraping](pilot.png)
+![Scraping](pilot.jpg)
 
 The data was scraped from the website: https://transcripts.foreverdreaming.org/ and I used Python and it’s various libraries to do the analysis.
 Warning: There may be some spoilers.
