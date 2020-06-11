@@ -8,13 +8,11 @@ When looking into possible Data Science side projects, it was therefore an easy 
 
 
 **Getting Started** <br/>
-![Scraping](pilot.jpg)
 
 The data was scraped from the website: https://transcripts.foreverdreaming.org/ and I used Python and it’s various libraries to do the analysis.
 Warning: There may be some spoilers.
 
 **Cleaning** <br/>
-![cleaning](cleaning.jpg) <br/>
 The main cleaning steps included:
 
 * Corrected misspelled character names
@@ -24,7 +22,6 @@ The main cleaning steps included:
 * Included character lines if they are said by one person (delete if multiple characters spoke at once)
 
 **Data Analysis** <br/>
-![statistics](statistics.png) <br/>
 Some findings were:
 
 * There were 58,382 total spoken lines
